@@ -1,3 +1,8 @@
+"""
+Created on Sun Sep 10 17:10:52 2017
+
+@author: dhrumil vora
+"""
 import requests
 from bs4 import BeautifulSoup
 import csv
